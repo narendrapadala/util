@@ -1,0 +1,37 @@
+[{
+	"event_name" : "RXCHAR",
+	"event_type" : 1,
+	"event_property_name" : "rxchar.bytes.count"
+}, {
+	"event_name" : "RXFLAG",
+	"event_type" : 2,
+	"event_property_name" : "rxflag.bytes.count"
+}, {
+	"event_name" : "TXEMPTY",
+	"event_type" : 4,
+	"event_property_name" : "txempty.bytes.count"
+}, {
+	"event_name" : "CTS",
+	"event_type" : 8,
+	"event_property_name" : "cts.bytes.count"
+}, {
+	"event_name" : "DSR",
+	"event_type" : 16,
+	"event_property_name" : "dsr.bytes.count"
+}, {
+	"event_name" : "RLSD",
+	"event_type" : 32,
+	"event_property_name" : "rlsd.bytes.count"
+}, {
+	"event_name" : "BREAK",
+	"event_type" : 64,
+	"event_property_name" : "rxflag.bytes.count"
+}, {
+	"event_name" : "ERR",
+	"event_type" : 128,
+	"event_property_name" : "rxflag.bytes.count"
+}, {
+	"event_name" : "RING",
+	"event_type" : 256,
+	"event_property_name" : "ring.bytes.count"
+}]
